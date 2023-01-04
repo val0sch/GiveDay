@@ -2,7 +2,7 @@
 
 ## La plateforme généreuse des tout petits
 
-déploiement : https://giveday.remote-fr-3.wilders.dev/
+Visiter le site : https://giveday.fr/
 
 </br>
 Le projet consiste à développer le prototype d’une application web qui a pour objectif d’optimiser l’organisation d’évènements pour enfants.
